@@ -1,0 +1,51 @@
+Date,Month,Quarter,Year,Product ID,Product Name,Product Category,Supplier Name,Warehouse Location,Region,Opening Stock,Incoming Stock,Units Sold,Closing Stock,Reorder Level,Reorder Status,Lead Time (Days),Order Quantity,Delivery Status,Delivery Time (Days),Inventory Holding Cost,Stockout Status,Demand Forecast,Actual Demand,Forecast Accuracy %,Inventory Turnover Ratio
+2023-01-05,Jan,Q1,2023,P001,Laptop Pro,Electronics,TechSupply Co,New York,East,500,200,450,250,300,Reorder,14,300,On Time,14,1250,No,480,450,93.75,1.2
+2023-01-12,Jan,Q1,2023,P002,Desk Chair,Furniture,OfficeMart,Chicago,Midwest,300,100,350,50,150,Reorder,21,200,Delayed,25,250,No,320,350,90.62,2.0
+2023-01-18,Jan,Q1,2023,P003,Wireless Mouse,Electronics,TechSupply Co,Dallas,South,1000,500,1200,300,400,Reorder,7,600,On Time,7,600,No,1100,1200,90.90,1.7
+2023-02-04,Feb,Q1,2023,P004,LED Monitor,Electronics,DisplayCorp,Seattle,West,400,0,400,0,200,Critical,10,300,Delayed,15,0,Yes,380,400,94.73,2.0
+2023-02-15,Feb,Q1,2023,P005,Standing Desk,Furniture,OfficeMart,New York,East,150,50,100,100,80,Sufficient,30,100,On Time,30,800,No,120,100,83.33,0.8
+2023-03-10,Mar,Q1,2023,P006,Pallet Jack,Equipment,HeavyLift Inc,Chicago,Midwest,50,20,30,40,20,Sufficient,45,50,On Time,45,1200,No,35,30,85.71,0.6
+2023-03-22,Mar,Q1,2023,P007,Packing Tape,Supplies,PackIt Fast,Dallas,South,5000,2000,6000,1000,1500,Reorder,5,3000,On Time,5,100,No,5500,6000,90.90,1.7
+2023-04-05,Apr,Q2,2023,P001,Laptop Pro,Electronics,TechSupply Co,Seattle,West,250,300,400,150,300,Reorder,14,300,On Time,14,750,No,420,400,95.23,2.0
+2023-04-18,Apr,Q2,2023,P002,Desk Chair,Furniture,OfficeMart,New York,East,50,200,150,100,150,Reorder,21,200,Delayed,24,500,No,180,150,83.33,1.2
+2023-05-11,May,Q2,2023,P008,Filing Cabinet,Furniture,OfficeMart,Chicago,Midwest,200,0,180,20,50,Reorder,28,100,On Time,28,300,No,200,180,90.00,1.6
+2023-05-25,May,Q2,2023,P004,LED Monitor,Electronics,DisplayCorp,Dallas,South,0,300,250,50,200,Reorder,10,300,Delayed,12,150,No,280,250,89.28,1.6
+2023-06-08,Jun,Q2,2023,P003,Wireless Mouse,Electronics,TechSupply Co,Seattle,West,300,600,800,100,400,Reorder,7,600,On Time,7,200,No,750,800,93.33,2.0
+2023-06-20,Jun,Q2,2023,P009,Safety Goggles,Supplies,SafeGear,New York,East,1000,500,1400,100,300,Reorder,14,1000,On Time,14,50,No,1300,1400,92.30,1.8
+2023-07-03,Jul,Q3,2023,P010,Forklift Battery,Equipment,HeavyLift Inc,Chicago,Midwest,30,10,25,15,10,Sufficient,60,20,Delayed,65,2000,No,20,25,75.00,1.1
+2023-07-15,Jul,Q3,2023,P001,Laptop Pro,Electronics,TechSupply Co,Dallas,South,150,300,450,0,300,Critical,14,300,On Time,14,0,Yes,400,450,87.50,2.0
+2023-08-02,Aug,Q3,2023,P005,Standing Desk,Furniture,OfficeMart,Seattle,West,100,100,150,50,80,Reorder,30,100,On Time,30,400,No,140,150,92.85,1.0
+2023-08-18,Aug,Q3,2023,P007,Packing Tape,Supplies,PackIt Fast,New York,East,1000,3000,3500,500,1500,Reorder,5,3000,On Time,5,50,No,3200,3500,90.62,2.3
+2023-09-05,Sep,Q3,2023,P002,Desk Chair,Furniture,OfficeMart,Chicago,Midwest,100,200,250,50,150,Reorder,21,200,Delayed,23,250,No,260,250,96.15,1.6
+2023-09-21,Sep,Q3,2023,P006,Pallet Jack,Equipment,HeavyLift Inc,Dallas,South,40,50,60,30,20,Sufficient,45,50,On Time,45,900,No,50,60,80.00,1.3
+2023-10-10,Oct,Q4,2023,P004,LED Monitor,Electronics,DisplayCorp,Seattle,West,50,300,350,0,200,Critical,10,300,Delayed,14,0,Yes,300,350,83.33,2.3
+2023-10-25,Oct,Q4,2023,P008,Filing Cabinet,Furniture,OfficeMart,New York,East,20,100,90,30,50,Reorder,28,100,On Time,28,450,No,100,90,90.00,1.5
+2023-11-08,Nov,Q4,2023,P003,Wireless Mouse,Electronics,TechSupply Co,Chicago,Midwest,100,600,650,50,400,Reorder,7,600,On Time,7,100,No,700,650,92.85,1.8
+2023-11-20,Nov,Q4,2023,P009,Safety Goggles,Supplies,SafeGear,Dallas,South,100,1000,900,200,300,Reorder,14,1000,On Time,14,100,No,850,900,94.11,1.5
+2023-12-05,Dec,Q4,2023,P010,Forklift Battery,Equipment,HeavyLift Inc,Seattle,West,15,20,30,5,10,Reorder,60,20,On Time,60,666,No,25,30,80.00,1.7
+2023-12-18,Dec,Q4,2023,P001,Laptop Pro,Electronics,TechSupply Co,New York,East,0,300,200,100,300,Reorder,14,300,Delayed,16,500,No,250,200,80.00,1.3
+2024-01-08,Jan,Q1,2024,P002,Desk Chair,Furniture,OfficeMart,Chicago,Midwest,50,200,220,30,150,Reorder,21,200,On Time,21,150,No,200,220,90.00,1.7
+2024-01-22,Jan,Q1,2024,P005,Standing Desk,Furniture,OfficeMart,Dallas,South,50,100,120,30,80,Reorder,30,100,Delayed,34,240,No,110,120,90.90,1.5
+2024-02-05,Feb,Q1,2024,P007,Packing Tape,Supplies,PackIt Fast,Seattle,West,500,3000,3100,400,1500,Reorder,5,3000,On Time,5,40,No,3000,3100,96.66,1.7
+2024-02-19,Feb,Q1,2024,P004,LED Monitor,Electronics,DisplayCorp,New York,East,0,300,280,20,200,Reorder,10,300,On Time,10,60,No,300,280,93.33,1.8
+2024-03-10,Mar,Q1,2024,P006,Pallet Jack,Equipment,HeavyLift Inc,Chicago,Midwest,30,50,55,25,20,Sufficient,45,50,On Time,45,750,No,50,55,90.00,1.3
+2024-03-25,Mar,Q1,2024,P008,Filing Cabinet,Furniture,OfficeMart,Dallas,South,30,100,110,20,50,Reorder,28,100,Delayed,30,300,No,100,110,90.00,1.6
+2024-04-08,Apr,Q2,2024,P003,Wireless Mouse,Electronics,TechSupply Co,Seattle,West,50,600,550,100,400,Reorder,7,600,On Time,7,200,No,600,550,91.66,1.5
+2024-04-22,Apr,Q2,2024,P009,Safety Goggles,Supplies,SafeGear,New York,East,200,1000,1100,100,300,Reorder,14,1000,On Time,14,50,No,1000,1100,90.00,1.8
+2024-05-06,May,Q2,2024,P010,Forklift Battery,Equipment,HeavyLift Inc,Chicago,Midwest,5,20,25,0,10,Critical,60,20,Delayed,64,0,Yes,25,25,100.00,1.6
+2024-05-20,May,Q2,2024,P001,Laptop Pro,Electronics,TechSupply Co,Dallas,South,100,300,350,50,300,Reorder,14,300,On Time,14,250,No,350,350,100.00,1.7
+2024-06-10,Jun,Q2,2024,P002,Desk Chair,Furniture,OfficeMart,Seattle,West,30,200,200,30,150,Reorder,21,200,On Time,21,150,No,190,200,94.73,1.7
+2024-06-25,Jun,Q2,2024,P005,Standing Desk,Furniture,OfficeMart,New York,East,30,100,90,40,80,Reorder,30,100,Delayed,32,320,No,100,90,90.00,1.2
+2024-07-08,Jul,Q3,2024,P007,Packing Tape,Supplies,PackIt Fast,Chicago,Midwest,400,3000,2800,600,1500,Reorder,5,3000,On Time,5,60,No,3000,2800,93.33,1.4
+2024-07-22,Jul,Q3,2024,P004,LED Monitor,Electronics,DisplayCorp,Dallas,South,20,300,320,0,200,Critical,10,300,Delayed,13,0,Yes,300,320,93.33,2.0
+2024-08-05,Aug,Q3,2024,P006,Pallet Jack,Equipment,HeavyLift Inc,Seattle,West,25,50,60,15,20,Reorder,45,50,On Time,45,450,No,55,60,90.90,1.5
+2024-08-19,Aug,Q3,2024,P008,Filing Cabinet,Furniture,OfficeMart,New York,East,20,100,80,40,50,Reorder,28,100,On Time,28,600,No,90,80,88.88,1.3
+2024-09-09,Sep,Q3,2024,P003,Wireless Mouse,Electronics,TechSupply Co,Chicago,Midwest,100,600,600,100,400,Reorder,7,600,On Time,7,200,No,550,600,90.90,1.7
+2024-09-24,Sep,Q3,2024,P009,Safety Goggles,Supplies,SafeGear,Dallas,South,100,1000,1050,50,300,Reorder,14,1000,Delayed,16,25,No,1000,1050,95.00,1.8
+2024-10-08,Oct,Q4,2024,P010,Forklift Battery,Equipment,HeavyLift Inc,Seattle,West,0,20,15,5,10,Reorder,60,20,On Time,60,666,No,20,15,75.00,1.5
+2024-10-22,Oct,Q4,2024,P001,Laptop Pro,Electronics,TechSupply Co,New York,East,50,300,280,70,300,Reorder,14,300,On Time,14,350,No,300,280,93.33,1.7
+2024-11-05,Nov,Q4,2024,P002,Desk Chair,Furniture,OfficeMart,Chicago,Midwest,30,200,190,40,150,Reorder,21,200,Delayed,24,200,No,200,190,95.00,1.6
+2024-11-19,Nov,Q4,2024,P005,Standing Desk,Furniture,OfficeMart,Dallas,South,40,100,110,30,80,Reorder,30,100,On Time,30,240,No,100,110,90.00,1.5
+2024-12-03,Dec,Q4,2024,P007,Packing Tape,Supplies,PackIt Fast,Seattle,West,600,3000,3400,200,1500,Reorder,5,3000,On Time,5,20,No,3500,3400,97.14,2.0
+2024-12-17,Dec,Q4,2024,P004,LED Monitor,Electronics,DisplayCorp,New York,East,0,300,290,10,200,Reorder,10,300,On Time,10,30,No,300,290,96.66,1.9
+2024-12-30,Dec,Q4,2024,P006,Pallet Jack,Equipment,HeavyLift Inc,Chicago,Midwest,15,50,45,20,20,Sufficient,45,50,Delayed,48,600,No,50,45,90.00,1.2
